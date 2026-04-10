@@ -1,14 +1,11 @@
-body{
-    background-color:antiquewhite
+p{
+    font-size: 2rem;
+    font-weight: 900;
+    font-family:'Caveat', cursive;
+    font-weight: 400;
+    text-align: right;
+    font-size: 30px;
 }
-h1{
-    color:whitesmoke;
-    background-color: darkgreen;
-}
-h2{
-    color: #FAF8F1;
-    background-color: #C58940;
-}
-title{
-    color:coral;
+.Color{
+    color: coral;
 }
