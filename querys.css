@@ -1,0 +1,25 @@
+body{
+    @media screen {max-width: 1601px;}
+    background-color: seagreen;
+    }
+body {
+    background-color: seagreen; /* padrão */
+  }
+  
+  @media screen and (max-width: 1200px) {
+    body {
+      background-color: limegreen;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    body {
+      background-color: powderblue;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    body {
+      background-color: lightsalmon;
+    }
+  }
