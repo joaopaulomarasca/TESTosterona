@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:white;
+    padding:center ;
+    display: inline-block;
+    padding: 50px;
+    display: flex;
+}
+.Main{
+    flex: 1;
+}
+.Beauty{
+    display:flexbox ;
+    padding:center ;
+    display: inline-block;
+    text-align:justify;
+    
+}
+.Construction{
+    display:inline ;
+    display: inline-block;
+    text-align:justify;
+}
